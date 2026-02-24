@@ -1,4 +1,4 @@
-# Group2_Final_Project: Children Entertainment Assistant
+# This was a project from my Master's in Artificial Intelligence in which we created an assistant that would play games such as 'I spy', creating a story, and providing coloring outlines based on the story.
 ---
 ## Introduction
 
